@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="title">A simple Flashlight from Jodocus Deunk</string>
+    <string name="bTextOn">Enable flashlight</string>
+    <string name="bTextOff">Disable flashlight</string>
+    <string name="rTextOn">If entered this will be the text when flashlight can be enabled.</string>
+    <string name="rTextOnTitle">Text ON</string>
+    <string name="rAbout">About text</string>
+    <string name="rAboutText">Enter your about text here</string>
+</resources>
